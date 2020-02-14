@@ -17,7 +17,7 @@ require_once 'connect.php';
 	<br>
   		<h2 style="margin-left: 15px">Additional Charges</h2>
   		<a href="checkin.php" style="margin-left: 15px"><span class="badge badge-pill badge-secondary">Back</span></a>
-  		<hr class='my-4'>
+  		<hr class='my-4'>//Git
   	
   	
 
